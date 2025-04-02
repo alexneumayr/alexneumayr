@@ -17,8 +17,6 @@
 }
 ```
 
-![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg | width=30 height=30)
-
 ## Languages and Tools:
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="30"/>
