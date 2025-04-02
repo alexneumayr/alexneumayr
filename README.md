@@ -6,7 +6,7 @@
   "age": 34,
   "location": "Vienna, AT",
   "e-mail": "alexneumayr90@gmail.com",
-  "learning": [
+  "focus": [
     "JavaScript",
     "TypeScript",
     "Tailwind",
