@@ -1,5 +1,22 @@
 ## Hi there 👋
 
+```json
+{
+  "name": "Alex",
+  "age": 34,
+  "location": "Vienna, AT",
+  "e-mail": "alexneumayr90@gmail.com",
+  "learning": [
+    "JavaScript",
+    "TypeScript",
+    "Tailwind",
+    "Next.js",
+    "React"
+  ],
+  "note": "Feel free to reach out - just drop me an email!"
+}
+```
+
 <!--
 **alexneumayr/alexneumayr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
